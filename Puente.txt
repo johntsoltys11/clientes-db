@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_1.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_10.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_11.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_12.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_13.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_2.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_3.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_4.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_5.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_6.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_7.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_8.txt
+https://raw.githubusercontent.com/johntsoltys11/clientes-db/refs/heads/main/clientes_9.txt
